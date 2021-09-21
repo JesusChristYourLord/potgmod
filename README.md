@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# Path Of The Gods
 
 ## Setup
 
